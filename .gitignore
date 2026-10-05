@@ -19,3 +19,8 @@
 /.phpunit.cache/
 /.phpunit.result.cache
 ###< phpunit/phpunit ###
+
+###> symfony/reprise ###
+/node_modules/
+/public/build/
+###< symfony/reprise ###
